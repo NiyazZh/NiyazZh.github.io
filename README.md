@@ -1,7 +1,7 @@
 <h1 align="center">Привет! Я <a href="#" target="_blank">Нияз</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Здесь мои работы по верстке</h3>
-<a href="https://niyazzh.github.io/" target="_blank">Нияз</a> 
+<h1 align="center"><a href="https://niyazzh.github.io/" target="_blank">Просмотреть</a></h1>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

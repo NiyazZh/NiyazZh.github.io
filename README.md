@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Я <a href="https://daniilshat.ru/" target="_blank">Нияз</a> 
+<h1 align="center">Привет! Я <a href="#" target="_blank">Нияз</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Мои работы по верстке</h3>
 
